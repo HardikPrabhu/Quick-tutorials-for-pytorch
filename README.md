@@ -3,7 +3,7 @@ This is just a refresher on Pytorch before taking any deep learning project. The
 
 ## Notebooks
 
-1. Introduction to tensors (Tensors.py)
+1. [Introduction to tensors](Tensors.ipynb)
     - Introduction to tensors
     - Basic operations
     - Broadcasting rules
