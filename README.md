@@ -8,7 +8,8 @@ This is just a refresher on Pytorch before taking any deep learning project. The
     - Basic operations
     - Broadcasting rules
 
-2. Gradients, Autodiff and optimisers (upcoming)
-
-3. Building your First Neural Network (upcoming)
+2. [Building Your First Neural Network](First_Neural_Network.ipynb)
+    - Basic structures
+    - nn.Module, optimisers, In-built Loss functions
+    - Notes on gradient calculation
  
