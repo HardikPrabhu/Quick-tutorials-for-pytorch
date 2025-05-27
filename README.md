@@ -13,4 +13,9 @@ This is just a refresher on Pytorch before taking any deep learning project. The
     - nn.Module, optimisers, In-built Loss functions
     - Notes on gradient calculation
  
-3. Convolutions (upcoming)
+3. [Convolutions](Convolutions.ipynb)
+   - Convolution as Linear Transformation
+   - Strides and Dialations
+   - Padding
+   - Channels
+   - ConvTranspose
