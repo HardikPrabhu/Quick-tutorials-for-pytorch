@@ -1,5 +1,5 @@
 # Quick-tutorials-for-PyTorch
-This is just a refresher on Pytorch before taking any deep learning project. These notebooks will be constantly updated and may overlap to some degree. 
+This is just a refresher on PyTorch before taking any deep learning project. These notebooks will be constantly updated and may overlap to some degree. 
 
 ## Notebooks
 
@@ -19,3 +19,7 @@ This is just a refresher on Pytorch before taking any deep learning project. The
    - Padding
    - Channels
    - ConvTranspose
+
+I think we are more than equipped (from a PyTorch coding perspective) to implement and discuss the underlying architectural choices made in the seminal work in image segmentation titled [UNET](https://arxiv.org/abs/1505.04597) 
+
+4. UNET (upcoming)
