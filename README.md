@@ -20,6 +20,6 @@ This is just a refresher on PyTorch before taking any deep learning project. The
    - Channels
    - ConvTranspose
 
-I think we are more than equipped (from a PyTorch coding perspective) to implement and discuss the underlying architectural choices made in the seminal work in image segmentation titled [UNET](https://arxiv.org/abs/1505.04597) 
 
-4. UNET (upcoming)
+
+4. Attention and Transformers (upcoming)
